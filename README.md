@@ -1,2 +1,62 @@
-# ToD-table
-Record new papers about task-oriented dialogue system (ToD).
+
+
+# LLM-based Tod Table
+
+It may take me a while to integrate another table into this repository.
+
+
+
+## Last update in 2024.7.6
+
+| Model            | Date    | Author    | Code                                                 | Type  | Accepted                                                     | Paper                                                        |
+| ---------------- | ------- | --------- | ---------------------------------------------------- | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| TransferTOD      | 2024.07 |           |                                                      | Long  | [Submitted to ACL ARR 2024 June](https://openreview.net/forum?id=3ilKqohjYS) | TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities |
+| SyncTOD          | 2024.05 | Vivek     |                                                      | Short | [Submitted to ACL ARR 2024 June](https://openreview.net/forum?id=XHLVUIbnJh) | [Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems](https://arxiv.org/abs/2405.15585) |
+| GuidedTOD        | 2024.07 |           |                                                      | Long  | [Submitted to ACL ARR 2024 June](https://openreview.net/forum?id=2MAlLcfx5p) | Guideline Compliance in Task-Oriented Dialogue: The Chained Prior Approach |
+| MMD-Eval         | 2024.07 |           |                                                      | Long  | [Submitted to ACL ARR 2024 June](https://openreview.net/forum?id=eGn3TYJJbP) | Interactive Evaluation for Medical LLMs via Task-oriented Dialogue System |
+| CoReT            | 2024.07 |           |                                                      | Long  | [Submitted to ACL ARR 2024 June](https://openreview.net/forum?id=GpMzZcHHXm) | To Know What User Concerns: Conceptual Knowledge Reasoning for Task-oriented Dialogue Quality Estimation |
+| Tod-csp          | 2024.05 |           | [null](https://github.com/mwozgpt/tod-csp)           | Long  | [Submitted to ACL ARR 2024 April](https://openreview.net/forum?id=8aYitCuR6l) | Evaluating Task-Oriented Dialogue Consistency through Constraint Satisfaction |
+| IndirectRequests | 2024.06 | Mannekote |                                                      | Long  | [Submitted to ACL ARR 2024 April](https://openreview.net/forum?id=0qns6fSiZK) | [Making Task-Oriented Dialogue Datasets More Natural by Synthetically Generating Indirect User Requests](https://arxiv.org/abs/2406.07794) |
+| ml-toad          | 2024.02 | Liu       | [null](https://github.com/apple/ml-toad)             | Long  | ACL 2024                                                     | [TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles](https://arxiv.org/abs/2402.10137) |
+| ComplianceOPT    | 2023.11 | Min       |                                                      | Long  | [Submitted to ACL ARR 2024 Feb](https://openreview.net/forum?id=lNUu2_DRdH) | [Workflow-Guided Response Generation for Task-Oriented Dialogue](https://arxiv.org/abs/2311.08300) |
+| FnCTOD           | 2024.02 | Li        | [github](https://github.com/facebookresearch/FnCTOD) | Long  | ACL 2024                                                     | [Large Language Models as Zero-shot Dialogue State Tracker through Function Calling](https://arxiv.org/abs/2402.10466) |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+|                  |         |           |                                                      |       |                                                              |                                                              |
+
